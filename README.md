@@ -12,7 +12,20 @@ inquierer, mysql and easy-table
 * run npm install
 * run bamazoncustomer
 * follow the prompts
+* display the table
+![](/images/bamazon1.PNG)
 * Select the product for sale
 * Select the quantity
-![GitHub Logo](/images/bamazon1.png)
+![](/images/bamazon2.PNG)
+* Select more than available products in stock and display "Insufficient quantity"message
+![](/images/bamazon4.PNG)
+* Select Yes to continue shopping and display the table of products again.
+![](/images/bamazon5.PNG)
+
+* Select NO to continue shopping and display "Thank you" message
+![](/images/bamazon3.PNG)
+
+
+
+
 
